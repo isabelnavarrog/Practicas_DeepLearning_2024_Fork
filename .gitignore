@@ -1,4 +1,5 @@
 models/
+env_dl/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
