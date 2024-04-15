@@ -1,0 +1,45 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.10.8",
+    "heartbeatAt": "2024-04-05T16:04:14.842669",
+    "startedAt": "2024-04-05T16:04:14.237152",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\isaan\\OneDrive\\Escritorio\\MBD\\MACHINE LEARNING II\\LABS\\Practicas_DeepLearning_2024\\streamlit\\practica\\wab_prueba.py",
+    "codePathLocal": "wab_prueba.py",
+    "codePath": "streamlit\\practica\\wab_prueba.py",
+    "git": {
+        "remote": "https://github.com/agascong/Practicas_DeepLearning_2024.git",
+        "commit": "3aa5373944c9b861b6c8749acfc106f0d23c8cb3"
+    },
+    "email": "202314451@alu.comillas.edu",
+    "root": "C:/Users/isaan/OneDrive/Escritorio/MBD/MACHINE LEARNING II/LABS/Practicas_DeepLearning_2024",
+    "host": "Isa-Navarro",
+    "username": "isaan",
+    "executable": "C:\\Users\\isaan\\OneDrive\\Escritorio\\MBD\\MACHINE LEARNING II\\LABS\\Practicas_DeepLearning_2024\\streamlit\\DL\\Scripts\\python.exe",
+    "cpu_count": 10,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1700.0,
+        "min": 0.0,
+        "max": 1700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1700.0,
+            "min": 0.0,
+            "max": 1700.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.4866371154785,
+            "used": 219.43181610107422
+        }
+    },
+    "memory": {
+        "total": 15.633926391601562
+    }
+}
